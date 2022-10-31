@@ -1,0 +1,22 @@
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab0_gallagher.cydsn\ece381_lab0_gallagher.cyprj|c9b4b1eb-7ce4-4e23-a9e9-ba7b338ef8c0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|c2a31aea-5233-4a21-885b-f5a7266972a4
+C:\Users\Will\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|4e451587-ccc2-4411-8d49-258940d822ff
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|8ad914db-f3ea-43d8-ac4e-3ba263ef17c8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9268f9a1-71ca-418a-8b09-30a1cc964268
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d9e4cc0d-770c-4833-ae53-4dc43a43933e
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab1P1_gallagher.cydsn\ece381_lab1P1_gallagher.cyprj|befe5597-fc94-4f1a-b748-adb57aed3fd1
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab1P2_gallagher.cydsn\ece381_lab1P2_gallagher.cyprj|b8f4e6a3-9a59-4cd7-8753-aad7ede4ab53
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab2P1_gallagher.cydsn\ece381_lab2P1_gallagher.cyprj|59ab0c71-31d2-4756-aeb1-1319b6ab8b4b
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab2P2_gallagher.cydsn\ece381_lab2P2_gallagher.cyprj|8d143482-61dd-4ecb-885f-a8f7aa03e765
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\frequency_generator.cydsn\frequency_generator.cyprj|e0a3f2b4-340b-4672-a499-5524c5538ef2
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab3_gallagher.cydsn\ece381_lab3_gallagher.cyprj|dc5ab879-d281-4e8e-94d3-c858ba5d39c1
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab4_gallagher.cydsn\ece381_lab4_gallagher.cyprj|f867e98a-dff4-407a-82fe-adf34af0729e
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\Test_Question_Gallagher.cydsn\Test_Question_Gallagher.cyprj|5b01aa0e-8672-47a2-92dc-901f3c2f108d
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab5_gallagher.cydsn\ece381_lab5_gallagher.cyprj|7a822708-36bb-49cc-8f0d-50f40c264fd0
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab6_gallagher.cydsn\ece381_lab6_gallagher.cyprj|709b8c34-987b-4d19-b081-7d91357da6ba
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab7_gallagher.cydsn\ece381_lab7_gallagher.cyprj|adbcd29b-3d47-4f1c-b1b7-7e9fb07074d9
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab7_gallagher_Part2.cydsn\ece381_lab7_gallagher_Part2.cyprj|678ec7cd-ee13-4a00-96c5-853097fd8d43
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_lab8_gallagher.cydsn\ece381_lab8_gallagher.cyprj|fdf895ed-542e-40c8-b89e-29b85742fc65
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\ece381_finalproject_Gallagher.cydsn\ece381_finalproject_Gallagher.cyprj|7397cb0c-b69f-42e8-8944-b1da486cf044
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\Test2_Gallagher.cydsn\Test2_Gallagher.cyprj|3c6a3225-d4de-4770-9fa2-737cc111dc1d
+C:\Users\Will\OneDrive - Southern Illinois University Edwardsville\Spring 2021\ECE 381\Psoc_Projects\Lab_Projects\INA260_Test_Copy_01.cydsn\INA260_Test_Copy_01.cyprj|b76537a2-2238-4b54-b632-f60a8c031754
